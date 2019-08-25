@@ -1,0 +1,3 @@
+This contains code to implement some of the basics faclities provided by tensorflow of machine learning.
+The code is implemented in Java 
+Made for my semseter project.
